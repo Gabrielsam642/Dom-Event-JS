@@ -1,0 +1,18 @@
+#del{
+	background-color: rgb(255, 240, 240);
+	cursor: pointer;
+}
+
+ul{
+	font-size: 20px;
+}
+ul li{
+	cursor: pointer;
+}
+#del:hover{
+	background-color: rgb(48, 100, 88);
+}
+.select{
+	background: rgba(255, 127, 6, 0.633);
+	width: 250px;
+}
